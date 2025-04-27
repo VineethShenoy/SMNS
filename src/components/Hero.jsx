@@ -9,7 +9,7 @@ const Hero = () => {
       </div>
       <div className="container" data-aos="fade-up">
         <h1>S M N S</h1><h2>And</h2><h1>Associates</h1>
-        <p>Charted Accountants</p>
+        <p>Chartered Accountants</p>
         <a href="#features" className="cta-button">Know Us</a>
       </div>
     </header>
