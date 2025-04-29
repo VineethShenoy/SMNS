@@ -24,7 +24,7 @@ const Footer = () => {
             <a href="mailto:smnsassociates@outlook.com" className="social-link">
               <i className="fas fa-envelope"></i>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">
+            <a href="https://www.linkedin.com/company/s-m-n-s-and-associates/about/" target="_blank" rel="noopener noreferrer" className="social-link">
               <i className="fab fa-linkedin"></i>
             </a>
           </div>
