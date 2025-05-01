@@ -8,7 +8,7 @@ const Footer = () => {
           <h2>Address</h2>
           <p>
             2nd Floor, RK Center<br />
-            NH66 Bhramavara<br />
+            NH66 Brahmavar<br />
             Udupi 576213
           </p>
           
