@@ -40,7 +40,7 @@ const Team = () => {
               onClick={handleCall('+917204430790')}
               style={{ cursor: 'pointer' }}
               >
-              <h3>CA Neelesh Shenoy</h3>
+              <h3>CA Neelesh Shenoy K</h3>
               <p>+91-7204430790</p>
           </div>
        </div>
